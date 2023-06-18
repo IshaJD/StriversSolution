@@ -9,6 +9,9 @@
         public void setnumber(String number){
             this.number=number;
         } 
+public void setnumber1(String number){
+            this.number=number;
+        } 
         public String getnumber(){
             return number;
         }
